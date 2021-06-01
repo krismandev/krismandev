@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krismandev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=krismandev&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krismandev&langs_count=5&theme=tokyonight)]()
+
+
 <!-- START_SECTION:waka -->
 <!--END_SECTION:waka-->
