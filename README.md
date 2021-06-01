@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?krismandev=1)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?krismandev=1) -->
 
 <!--
 **krismandev/krismandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
